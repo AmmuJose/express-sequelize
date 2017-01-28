@@ -1,0 +1,19 @@
+body {
+    background-color: #fff;
+    color: #000;
+}
+
+.container {
+    max-width: 968px;
+    height: 100%;
+    color: #000;
+    background-color: #ddd;
+}
+
+ul{
+    list-style-type: decimal;
+}
+
+h1 {
+    text-align: center;
+}
